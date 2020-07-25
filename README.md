@@ -5,6 +5,8 @@ custom input form with border color (Red) when them are required
 - Add class 'checar-campo' in input and
 - Add required in input
 
+![animation](animation.gif)
+
 ```html
 
 <!DOCTYPE html>
